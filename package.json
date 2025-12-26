@@ -1,0 +1,14 @@
+{
+  "name": "shadow-bot",
+  "version": "1.0.0",
+  "description": "بوت واتساب كامل Shadow-bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Shadow",
+  "license": "MIT",
+  "dependencies": {
+    "venom-bot": "^4.0.0"
+  }
+}
